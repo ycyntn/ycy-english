@@ -10,5 +10,5 @@ birthday|age
 
 
 
-![](/pic.jpg 'Luo Xiaohei')
+![](/pic.jpg 'pic.jpg')
 * <a href="https://www.baidu.com/" target="_blank">Baidu</a>
