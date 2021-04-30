@@ -4,8 +4,6 @@
 >*cars* is very cool.
 
 
-# CPE-gwy
-# gwy-
 
 # CPExp
 For CPE of JLU-CCST.
