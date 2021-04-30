@@ -23,7 +23,7 @@ _____________
 
 
 
-![pic.jpg](https://github.com/blackcat-gwy/CPE-gwy/blob/main/GitHub.png)
+![pic.jpg](https://github.com/ycyntn/ycy-english/blob/main/pic.jpg)
 
 
 ~~OF CAUSE!~~
